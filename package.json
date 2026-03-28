@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  },
+  "name": "ts-console-utils",
+  "version": "1.0.0",
+  "description": "Simple util functions for console elements",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "undici-types": "^7.18.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slord6/ts-console-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Slord6/ts-console-utils/issues"
+  },
+  "homepage": "https://github.com/Slord6/ts-console-utils#readme"
+}
