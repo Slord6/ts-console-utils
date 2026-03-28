@@ -1,5 +1,5 @@
-export * as characters from "./src/characters";
-export * as colour from "./src/colour";
-export * as control from "./src/control";
-export * as progress from "./src/progress";
-export * as text from "./src/text";
+export * as Characters from "./src/characters";
+export * as Colour from "./src/colour";
+export * as Control from "./src/control";
+export * as Progress from "./src/progress";
+export * as Text from "./src/text";

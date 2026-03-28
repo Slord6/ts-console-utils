@@ -4,7 +4,7 @@
     "typescript": "^6.0.2"
   },
   "name": "ts-console-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple util functions for console elements",
   "main": "index.js",
   "types": "dist/index.d.ts",
