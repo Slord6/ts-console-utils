@@ -34,8 +34,8 @@ var __importStar = (this && this.__importStar) || (function () {
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Text = exports.Progress = exports.Control = exports.Colour = exports.Characters = void 0;
-exports.Characters = __importStar(require("./characters"));
-exports.Colour = __importStar(require("./colour"));
-exports.Control = __importStar(require("./control"));
-exports.Progress = __importStar(require("./progress"));
-exports.Text = __importStar(require("./text"));
+exports.Characters = __importStar(require("./src/characters"));
+exports.Colour = __importStar(require("./src/colour"));
+exports.Control = __importStar(require("./src/control"));
+exports.Progress = __importStar(require("./src/progress"));
+exports.Text = __importStar(require("./src/text"));
