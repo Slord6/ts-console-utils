@@ -14,5 +14,5 @@
   "include": [
     "example.ts",
     "src/**/*"
-  ]
+, "index.ts"  ]
 }
